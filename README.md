@@ -1,6 +1,6 @@
 # 🎧 AutoMoodTune
 
-**GPT-powered playlist generator** that creates music recommendations based on your **real-time weather**, **current activity**, and **preferred language**.
+**Generative AI-Powered Playlist Generator** that creates music recommendations based on your **real-time weather**, **current activity**, and **preferred language**.
 
 > Powered by **LangChain**, **OpenAI GPT**, **OpenWeatherMap**, and **Streamlit**.
 
